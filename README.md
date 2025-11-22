@@ -1,46 +1,36 @@
-# 👋 Hi there, I'm Aniruddha Ganguly
+# 👋 Hey I’m Aniruddha Ganguly
 
-I’m currently working as a frontend developer, mostly building e-commerce platforms using **React** and **Next.js**.  
+I build smooth and scalable e-commerce experiences with React and Next.js and I like keeping things fast clean and easy to use. My work on the frontend naturally pulled me toward the world of data because the more I played with APIs the more I wondered what stories the data could tell and what cool automations it could power.
 
-Though I come from an **Electronics and Communication** background, I’ve always been curious about the web and how things work behind the scenes. While working with APIs on the frontend, I started wondering: *what more can we do with this data?*
-
-That curiosity led me to explore **data engineering** — and that’s what I’m diving into right now.
+Now I’m steadily moving toward data focused work. I’m learning how data flows behind the scenes and how to turn raw information into something meaningful and usable. It’s the beginning of my data engineering journey and I’m enjoying figuring it all out.
 
 ---
 
-## 🌱 Currently Exploring
-- Data Engineering concepts & tools
-- Building data pipelines and working with structured data
-- SQL, Python, and cloud platforms (AWS/GCP)
+## 🌱 What I’m Exploring  
+Data warehousing concepts  
+Analytics and automation  
+How small pieces of data turn into big decisions  
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend:** React, Next.js, JavaScript, HTML, CSS
-- **Tools:** Git, VS Code, Postman
-- **Learning:** SQL, Python, Apache Airflow, Cloud Services
+## 🛠 Tech Stack  
+**Frontend** React Next.js JavaScript HTML CSS  
+**Tools** Git VS Code Postman  
+**Learning** SQL Python Cloud services and the foundations of data engineering  
+
+I also completed the AWS Developer Associate certification which gave me a solid start with cloud fundamentals.
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/YOUR_USERNAME)](https://linkedin.com/in/ganguly-aniruddha)
-<!-- Replace with your actual LinkedIn URL -->
-
----
-
-<!--## 📈 GitHub Stats
-
-![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddhaganguly&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhaganguly&layout=compact&theme=github_dark)
-
----
--->
-## 📌 Featured Projects
-<!-- Replace these with actual repo links and titles -->
-- [Interface for Text to Speech (python)](https://github.com/Aniruddhaganguly/GUI-for-text-to-speech)
-- [Covid data Visulisation](https://github.com/Aniruddhaganguly/data-visualization-dashboard)
+## 📌 Featured Projects  
+[Interface for Text to Speech (Python)](https://github.com/Aniruddhaganguly/GUI-for-text-to-speech)  
+[Covid Data Visualization](https://github.com/Aniruddhaganguly/data-visualization-dashboard)
 
 ---
 
-*Always curious. Always building.* 🚀
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganguly-aniruddha)
+
+---
+
+Always curious always building 🚀
