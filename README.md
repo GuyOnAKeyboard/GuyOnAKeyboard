@@ -21,7 +21,7 @@ Here is a look at how my focus is evolving from full-stack applications to AI-dr
 
 ### 🤖 AI Agents & Gen AI
 * **[multi-tool-math-toolkit-agent](https://github.com/GuyOnAKeyboard/multi-tool-math-toolkit-agent)** *A hands-on exploration of agentic workflows. Built a basic math toolkit agent capable of performing complex math calculations and autonomously searching Wikipedia for contextual answers.*
-* **[YouTube-RAG-Chatbot-API](https://github.com/GuyOnAKeyboard/YouTube-RAG-Chatbot-API-with-FastAPI-ChromaDB-Local-LLM-Ollama-)** *A Python FastAPI backend allowing users to chat with YouTube videos. It extracts transcripts, processes and embeds them into a local ChromaDB vector store, and uses a local LLM via Ollama to serve answers.*
+* **[YouTube-RAG-Chatbot-API](https://github.com/GuyOnAKeyboard/YouTube-RAG-Chatbot-API)** *A Python FastAPI backend allowing users to chat with YouTube videos. It extracts transcripts, processes and embeds them into a local ChromaDB vector store, and uses a local LLM via Ollama to serve answers.*
 * **[spreadsheet-AI-automation](https://github.com/GuyOnAKeyboard/spreadsheet-AI-automation)** *A workflow automation project leveraging AI agents to parse, update, and manage spreadsheet data intelligently.*
 
 ### 📊 Full-Stack & Data Analytics
